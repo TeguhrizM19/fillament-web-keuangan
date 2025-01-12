@@ -1,3 +1,19 @@
+1. Halaman Login
+
+![alt text](https://github.com/TeguhrizM19/fillament-web-keuangan/blob/main/image/1-login.png)
+
+2. Halaman Dashboard
+
+![alt text](https://github.com/TeguhrizM19/fillament-web-keuangan/blob/main/image/2-dashboard.png)
+
+3. Halaman Category
+
+![alt text](https://github.com/TeguhrizM19/fillament-web-keuangan/blob/main/image/3-category.png)
+
+4. Halaman Transaction
+
+![alt text](https://github.com/TeguhrizM19/fillament-web-keuangan/blob/main/image/4-transaction.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
